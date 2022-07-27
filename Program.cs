@@ -16,7 +16,7 @@ namespace HelloWorld
 
             Console.WriteLine("Enter 20 positive number : ");
             
-            for(int i=0;i<3;i++)
+            for(int i=0;i<20;i++)
             {
                 num=Convert.ToInt32(Console.ReadLine());
                 if(num>1)
